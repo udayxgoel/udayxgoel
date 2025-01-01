@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks,courses etc**
 
-- 👨‍💻 All of my projects are available at [https://udaygoel.tech/](https://udaygoel.tech/)
+- 👨‍💻 All of my projects are available at [udaygoel.tech](https://udaygoel.tech/)
 
 - 💬 Ask me about **react, javascript and backend**
 
