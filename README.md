@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayxgoel&label=Profile%20views&color=0e75b6&style=flat" alt="udayxgoel" /> </p>
 
+- 👨‍🎓 I’m currently studying **Computer Science**
+
 - 🌱 I’m currently learning **DSA,MERN and AWS**
 
 - 👨‍💻 All of my projects are available at [https://udaygoel.tech/](https://udaygoel.tech/)
