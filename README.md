@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://udaygoel.tech/](https://udaygoel.tech/)
 
-- 💬 Ask me about **C++,ReactJs, Javascript and Backend**
+- 💬 Ask me about **Javascript, ReactJs and Backend**
 
 - 📫 How to reach me **dev.udaygoel@gmail.com**
 
