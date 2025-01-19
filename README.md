@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center">
-  <img align="center" alt="coding" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
----
-
 ### 🖊️ **About Me**
 
 - 🎓 **Pursuing**: Computer Science (BCA)
