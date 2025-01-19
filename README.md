@@ -1,64 +1,60 @@
-<h1 align="center">Hi 👋, I'm Uday Goel</h1>
+# 🌟 Uday Goel
 
-### 🖊️ **About Me**
-
-- 🎓 **Pursuing**: Computer Science (BCA)
-- 🌱 **Learning**: DSA, MERN Stack and AWS
-- 👨‍💻 **Portfolio**: [udaygoel.tech](https://udaygoel.tech/)
-- 💬 **Ask Me About**: JavaScript, React, Node.js, MongoDB
-- 📫 **Reach Me**: dev.udaygoel@gmail.com
+### Hi there! 👋  
+I am **Uday Goel**, a passionate Full-Stack Web Developer and a 3rd-year BCA student from Maharaja Agrasen College. I love building unique projects and solving challenging DSA problems. Currently, I'm focused on mastering the MERN stack and preparing for placements.
 
 ---
 
-### 🌐 **Connect with Me**
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://twitter.com/udayxgoel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" alt="Twitter" width="40" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/udayxgoel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/udayxgoel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40" />
-  </a>
-  <a href="https://www.leetcode.com/udayxgoel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
-  </a>
-</p>
+- 🌱 **Learning:** MERN Stack | Data Structures & Algorithms (DSA)  
+- 📚 **Interests:** Web Development, Problem-Solving, and Technology  
+- 🎯 **Goals:** To become a Senior Web Developer and start my own online business  
+- ⚡ **Fun Fact:** I have built over 30+ mini projects using HTML, CSS, and JavaScript.  
 
 ---
 
-### 🛠️ **Languages and Tools**
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udayxgoel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayxgoel&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayxgoel" alt="GitHub Streak" />
-</p>
+![Uday Goel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=dark)
+
+---
+
+## 🚀 Productivity Stats
+
+[![Uday Goel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-handle)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-id/)  
+
+---
+
+## 🔗 Other Links
+
+- [Portfolio Website](https://your-portfolio-link)
+- [GitHub Profile](https://github.com/your-github-username)
+
+---
+
+### 🌟 Thank you for visiting my profile! Keep coding and have an amazing day!
