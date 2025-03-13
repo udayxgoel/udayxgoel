@@ -63,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=udayxgoel&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=udayxgoel&theme=default&hide_border=true&cache-bust=1" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/src/index.php?user=udayxgoel&theme=default" alt="GitHub Streak" />
 </p>
+
 
