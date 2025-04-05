@@ -31,6 +31,12 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayxgoel&show_icons=true&locale=en&layout=compact" alt="udayxgoel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayxgoel&show_icons=true&locale=en" alt="udayxgoel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayxgoel&" alt="udayxgoel" /></p>
+
 ### 🛠️ **Languages and Tools**
 
 <p align="center">
