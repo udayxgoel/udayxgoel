@@ -53,5 +53,3 @@
 </p>
 
 ---
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=udayxgoel&show_icons=true&locale=en" alt="udayxgoel GitHub Stats" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udayxgoel&show_icons=true&locale=en&layout=compact" alt="udayxgoel Top Languages" /> <br/><br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayxgoel" alt="udayxgoel GitHub Streak" /> </div>
