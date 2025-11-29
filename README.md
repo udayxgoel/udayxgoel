@@ -5,9 +5,9 @@
 
 ### 🖊️ **About Me**
 
-- 🎓 **Pursuing**: Computer Science (BCA)
+- 🎓 **Pursuing**: Computer Science (MCA)
 - 🌱 **Learning**: DSA, MERN Stack and AWS
-- 💬 **Ask Me About**: JavaScript, React.js, Node.js, MongoDB
+- 💬 **Ask Me About**: Next.js, Typescript, React.js, Node.js
 - 📫 **Reach Me**: dev.udaygoel@gmail.com
 
 ---
