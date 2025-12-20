@@ -7,7 +7,6 @@
 
 - 💼 **Portfolio**: https://udaygoel.vercel.app
 - 🎓 **Pursuing**: Computer Science (MCA)
-- 🌱 **Learning**: AI/ML, Devops and AWS
 - 💬 **Ask Me About**: Next.js, Typescript, React.js, Node.js
 - 📫 **Reach Me**: dev.udaygoel@gmail.com
 
