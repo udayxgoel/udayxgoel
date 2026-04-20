@@ -88,5 +88,3 @@ const uday = {
 ![GitHub Streak](https://streak-stats.demolab.com?user=udayxgoel&theme=tokyonight&hide_border=true)
 
 </div>
-
----
