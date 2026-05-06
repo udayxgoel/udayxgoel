@@ -4,7 +4,7 @@
 
 ### A Passionate Software Engineer | Web Developer | Lifelong Learner 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+Enthusiast;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+Enthusiast;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
