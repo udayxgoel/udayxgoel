@@ -1,4 +1,4 @@
-# Hi, i'm Uday 👋
+Hi, i'm Uday 👋
 
 just a guy who loves coding and building things on the internet.
 
